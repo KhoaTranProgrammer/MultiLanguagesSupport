@@ -9,8 +9,7 @@ This tutorial is suitable for persons who’s starting to study QML language or 
 
 # References
 http://doc.qt.io/qt-5/qtlinguist-index.html
-
 https://wiki.qt.io/How_to_do_dynamic_translation_in_QML
 
-# Source code
-https://github.com/KhoaTranProgrammer/MultiLanguagesSupport
+# Video for implement guideline
+https://www.youtube.com/watch?v=b3fMis-ko8Y&t=50s
